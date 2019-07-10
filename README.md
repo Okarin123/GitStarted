@@ -1,5 +1,5 @@
 # GitStarted
-Getting started with Git.
+Getting started with Git. Check out the CheatSheets and Guides - they're valuable reference material.
 ## Topics
 - [x] What is Git?
 - [x] What is GitHub?
