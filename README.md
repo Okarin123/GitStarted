@@ -9,7 +9,7 @@ Getting started with Git. Check out the CheatSheets and Guides - they're valuabl
 - [x] git commit
 - [x] git remote
 - [x] git push
-- [ ] git pull
+- [x] git pull
 - [ ] git clone
 - [ ] README and Markdown
 - [ ] What are forks?
